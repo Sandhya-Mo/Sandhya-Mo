@@ -1,13 +1,72 @@
 Sandhya Moorthi
-19 Hollowdale Farm
-Walpole, MA 02081
-07msandhya@gmail.com
-508-507-6695
+Boston, MA | (508)-807-6695 | moorthi.sa@northeastern.edu | LinkedIn: Sandhya-Moorthi | Availability: January-June 2027 | US Citizen
 
-Student at Northeastern University
-Boston Campus
-Major: Computer Science and Physics
-Expected Year of Graduation: 2029
+Education:
+  Northeastern University, Khoury College of Computer Sciences, Boston, MA (Expected May 2029)
+    Candidate for Bachelor of Science in Computer Science & Physics, Minor in Mechanical Engineering
+    GPA: 4.0/4.0
+    Honors/Awards: Dean's List, John Martinson Honors Program, Physics Department Award for Undergraduate Scholastic Excellence, Joseph A. Coolidge Achievement Award (1 of 4 recipients; excellence in Physical Sciences & Mathematics, leadership, and service)
+    Activities: Satellite Laboratory, Society for Physics Students, Artificial Intelligence Club, Brazilian Jiu Jitsu Club
+    Relevant Coursework: Electronics, Mechanical Engineering Computation & Design, Differential Equations & Linear Algebra, Program Design & Implementation
+
+Skills:
+  Software: MATLAB, GitHub, CAD (SolidWorks), ANSYS
+  Languages: Python, Java, C++, F Prime
+  Mechanical: FEA, CNC Machining, Electrical Wiring
+  Others: Team Coordination, Project Management, Public Speaking
+  Other Interests: Martial Arts, Astronomy, Violin, Guitar
+
+Experience:
+  TeraLink-1, Boston, MA (September 2025 – Present)
+    "6U CubeSat for the world's first demonstration of sub-terahertz communication to and from low Earth orbit"
+    Flight Software Lead
+      Write F Prime (C++-based) flight software components to control and monitor ADCS, EPS, communications, payload, and thermal subsystems
+      Managed flight software codebase (Git organization, multiple repos), enforcing MISRA C++ 2023 / JPL coding standards.
+      Lead development of the TeraLink-1's flatsat testbed, integrating EPS, ADCS, communications, thermal, and flight computer subsystems for end-to-end functional and integration testing.
+    
+    Command & Data Handling (CDH) Lead
+      Created and maintain the spacecraft's command and telemetry database in Excel, specifying packet structures and bit offsets to ensure accurate onboard/ground software interpretation according to the CCSDS Space Packet Protocol.
+      Computed and updated data budget and onboard computer storage sheets in Excel following addition of a new satellite antenna/frequency based on radio characteristics, data size, and orbital data.
+      Updated onboard computer block diagram, simplifying communication architecture from I2C and CAN to CAN bus only, and specified UART serial connector interfaces for subsystem debugging.
+
+  Northeastern Satellite Laboratory, Boston, MA (September 2025 – Present)
+    "Student organization for designing, building, and operating satellites and ground stations"
+    Software Lead
+      Oversee software development across Flight Software, Ground Station, and Infrastructure for satellite missions and supporting R&D projects.
+      Review code contributions across projects, ensuring adherence to coding standards and producing reliable, well-structured software.
+    
+    Simulations Deputy
+      Developed a transfer matrix method model in MATLAB to characterize sub-THz insertion loss across 6 candidate radome materials, using literature-sourced optical constants and uncertainty bounds to assess feasibility against a 1 dB loss threshold.
+      Built a Monte Carlo simulation in MATLAB propagating satellite attitude dynamics from randomized initial angular velocities to characterize probable tumble axes and inform detumbling behavior.
+      Oversee numerous simulation projects, delegate workload among students, develop and prepare assignments.
+    
+    Business Lead (E-Board)
+      Founded and led NSL's business team, fostering university and industry relationships, securing Small Satellite Conference attendance funding, and initiating a cross-university collaboration project with NSL and the MIT Satellite Team.
+      Supported club-wide growth from a new organization (founded January) to 50+ members.
+
+Projects:
+  DEWSat (March 2026 – Present)
+    NASA Space to Soil Challenge Finalist, Accepted for presentation at the AIAA SciTech Forum 2027
+    Designed the mission block diagram defining system architecture for a 12U CubeSat performing onboard drought detection via CNN and BiLSTM inference on multispectral imagery, enabling selective downlink (90% reduction in bandwidth usage).
+    Evaluated market needs and technical feasibility to define mission requirements.
+
+  Deployable Solar Arrays (January 2026 – Present)
+    Project Lead, Northeastern Base Camp PEAK Fellowship
+    Led R&D of a low-cost, open-source deployable solar array for 3U CubeSats using SolidWorks, addressing the high cost of COTS solutions and enabling expanded power generation
+    Defining control performance objectives and physical constraints to shape controls architecture.
+
+  Star Tracker Centroiding Algorithm (March 2026)
+    Implemented a fast Gaussian fitting star centroiding algorithm in Python, using closed-form least squares to locate star centroids to sub-pixel accuracy without iterative solving
+    Added an SNR-based pixel selection step to improve the fit, achieving 0.005 pixel centroiding error on synthetic star fields with known centroid positions
+
+  Predicting Time-Dependent Neutron Reflectivity (Jan. 2026 – Apr. 2026)
+    Northeastern AI Club, Physics Consultant
+    Advised a student research team on physics-based models describing how material properties change over time, using sensor data collected from their experiments.
+    Extended the team's existing analysis code into a framework that predicts how neutron reflectivity measurements will evolve beyond the original experiment window, giving the team a way to project results without new physical trials.
+
+
+------------------------------------------------------------------------------------------------------------
+Pre-College:
 
 Academic Accomplishments:
   Walpole High School Diploma
